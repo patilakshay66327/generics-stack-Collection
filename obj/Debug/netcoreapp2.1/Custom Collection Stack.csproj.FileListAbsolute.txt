@@ -1,0 +1,11 @@
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\bin\Debug\netcoreapp2.1\Custom Collection Stack.deps.json
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\bin\Debug\netcoreapp2.1\Custom Collection Stack.runtimeconfig.json
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\bin\Debug\netcoreapp2.1\Custom Collection Stack.runtimeconfig.dev.json
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\bin\Debug\netcoreapp2.1\Custom Collection Stack.dll
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\bin\Debug\netcoreapp2.1\Custom Collection Stack.pdb
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\obj\Debug\netcoreapp2.1\Custom Collection Stack.csprojAssemblyReference.cache
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\obj\Debug\netcoreapp2.1\Custom Collection Stack.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\obj\Debug\netcoreapp2.1\Custom Collection Stack.AssemblyInfoInputs.cache
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\obj\Debug\netcoreapp2.1\Custom Collection Stack.AssemblyInfo.cs
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\obj\Debug\netcoreapp2.1\Custom Collection Stack.dll
+C:\Users\OWNER\source\repos\Custom Collection Stack\Custom Collection Stack\obj\Debug\netcoreapp2.1\Custom Collection Stack.pdb
